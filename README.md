@@ -19,4 +19,4 @@
 
 ### Obs: 
 
-You have to add in .husky/commit-msg the following line: ./git/hooks/commit-msg to git-commit-msg-linter work
+You have to add in .husky/commit-msg the following line: ***./git/hooks/commit-msg*** to git-commit-msg-linter work
